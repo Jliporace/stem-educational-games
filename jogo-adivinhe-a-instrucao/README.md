@@ -5,7 +5,10 @@ Esse jogo foi criado com o objetivo principal de trabalhar o conceito de entrada
 
 ## Cartas
 
-As cartas são compostas por três momentos: Entrada, Instrução e Saída .A entrada enuncia o tipo de dado que é necessário para realizar a instrução. A instrução define qual será a ação que o jogador deverá executar quando receber as entradas. A saída é a ação que o jogador deverá realizar com o resultado da instrução.
+As cartas são compostas por três momentos: Entrada, Instrução e Saída. 
+- A entrada enuncia o tipo de dado que é necessário para realizar a instrução. 
+- A instrução define qual será a ação que o jogador deverá executar quando receber as entradas. 
+- A saída é a ação que o jogador deverá realizar com o resultado da instrução.
 
 ## Dinâmica
 À cada rodada, um jogador escolhe uma carta e o objetivo dos outros jogadores é adivinhar qual a instrução da carta escolhida. O jogador em posse da carta será chamado de *jogador computador* e os outros jogadores serão chamados de *jogadores usuários*. 
