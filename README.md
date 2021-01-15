@@ -11,6 +11,8 @@ Um grande abraço e, qualquer dúvida ou comentário, só entrar em contato atra
 
 ## Motivação
 
+- experiência afetiva
+- abstração de tudo no computador
 ## Resumo dos Jogos
 
 1) Jogo "Adivinhe a Instrução" 
