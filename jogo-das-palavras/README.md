@@ -10,7 +10,7 @@ Cada carta é composta pela palavra que deve ser adivinhada e pela imagem que a 
 ## Dinâmica do Jogo
 
 A turma é dividida em dois grupos. Começa-se pelo grupo que tem o estudante mais novo (podem existir várias maneiras de se escolher como começar!).
-Este aluno sorteia uma carta e têm como objetivo fazer seu time adivinhar a palavra principal daquela carta em 40 segundos, descrevendo-a. Caso a carta sorteada seja azul, ele deve descrever a palavra principal formando uma frase que utilize, obrigatoriamente, pelo menos duas das palavras relacionadas. Neste caso, o time deve esperar o estudante acabar de formular a frase para começar a adivinhar. 
+Este aluno sorteia uma carta e têm como objetivo fazer seu time adivinhar a palavra principal daquela carta em 40 segundos, descrevendo-a. 
 
 ## Pontuação 
 Caso o time consiga adivinhar a carta, ele pontua da seguinte forma: 
