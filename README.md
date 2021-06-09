@@ -15,6 +15,7 @@ Sou Jéssica e fui professora de robótica por 2 anos para turmas de alunos na f
 
 Hoje em dia não trabalho mais com educação, mas gostaria de compartilhar os jogos feitos na época caso outros professores (ou pais!) queiram também utilizar, ou adaptá-los. Eles foram feitos com muito carinho e nos deixaram muitos bons momentos em sala!
 Um grande abraço e, qualquer dúvida ou comentário, só entrar em contato através do e-mail jliporace@poli.ufrj.br.
+Esses jogos estão protegidos por licença em caso de uso comercial sem autorização.
 
 
 ## Motivação
